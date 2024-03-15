@@ -1,0 +1,33 @@
+/* Write your code here. */
+.navElements {
+  background-color: #9796f0;
+  height: 12vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+}
+
+.image {
+  height: 45px;
+  width: 95px;
+}
+
+.text {
+  display: flex;
+  flex-direction: row;
+}
+
+.para {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+.heading{
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Roboto";
+}

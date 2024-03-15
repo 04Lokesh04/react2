@@ -1,0 +1,22 @@
+/* Write your code here. */
+.list {
+  background-color: transparent;
+  border: 1px solid #ffffff30;
+  height: 150px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+.buttonEmoji {
+  background-color: transparent;
+  border: 0px;
+  height: 100px;
+  width: 100px;
+}
+
+.image {
+  height: 90px;
+  width: 90px;
+}
